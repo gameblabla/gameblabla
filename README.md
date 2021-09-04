@@ -9,7 +9,7 @@ Whenever i see an issue with a project that i want to fix, i would always try to
 
 **Projects that i took over and improved/changed**
 * [Super SMS Plus GX (formerly SMS Plus GX)](https://github.com/gameblabla/sms_sdl) Master System/Game Gear/SG-1000 emulator
-* [PCFXEmu] (https://github.com/gameblabla/pcfxemu) Trimmed down port of the PCFX core from Mednafen, intended for low end hardware.
+* [PCFXEmu](https://github.com/gameblabla/pcfxemu) Trimmed down port of the PCFX core from Mednafen, intended for low end hardware.
 * [VBEmu](https://github.com/gameblabla/vbemu) Fast Virtual Boy emulator for low end devices. (Fork of Mednafen's VB core)
 * [VBA Next Standalone](https://github.com/gameblabla/vba-next-portable) Standalone port of VBA Next for OpenDingux devices and Funkey-S
 * [Gnash-OpenDingux](https://github.com/gameblabla/gnash-opendingux) Trimmed down port of Gnash for low end devices.
