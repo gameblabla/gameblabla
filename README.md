@@ -21,7 +21,7 @@ Whenever i see an issue with a project that i want to fix, i would always try to
 * [Retrostone Custom firmware](https://github.com/gameblabla/retrostone2-buildroot) CFW for the French-designed Retrostone 2 console.
 * [Webview OpenDingux](https://github.com/gameblabla/webview_opendingux) Standalone HTML5 game player for OpenDingux/Embedded
 * [Simple Game Library](https://github.com/gameblabla/another_gameblabla_library) Simple game library that use both SDL 1.2/SDL2 for simple games.
-* [DOS Playground](https://github.com/gameblabla/dosplayground) Suite of function for MS-DOS projects.
+* [DOS Playground](https://github.com/gameblabla/dosplayground) Code for MS-DOS projects.
 * [RGB Image Decoder/Encoder](https://github.com/gameblabla/decoder_encoder_rgb) Binary to RGB565 image. (Stenography)
 * [SDL 1.2 port to Mac OS 8.1](https://github.com/gameblabla/ClassicMacDev_SDL) Playing around with Mac OS 8.1 and SDL 1.2.
 * [Clock app](https://github.com/gameblabla/clock_sdl_app) Simple clock app using SDL 1.2.
