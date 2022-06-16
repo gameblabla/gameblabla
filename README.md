@@ -29,3 +29,4 @@ Whenever i see an issue with a project that i want to fix, i would always try to
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=gameblabla&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gameblabla)
