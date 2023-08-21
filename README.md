@@ -1,6 +1,4 @@
-Linux user, C programmer @ [Gameblabla](https://github.com/gameblabla)
-
-Whenever i see an issue with a project that i want to fix, i would always try to jump at the opportunity.
+Some of the stuff i did
 
 **Projects i have contributed to**
 * [PCSX Rearmed](https://github.com/notaz/pcsx_rearmed) (Compatibility fixes, accuracy improvements etc...)
@@ -25,8 +23,4 @@ Whenever i see an issue with a project that i want to fix, i would always try to
 * [RGB Image Decoder/Encoder](https://github.com/gameblabla/decoder_encoder_rgb) Binary to RGB565 image. (Stenography)
 * [SDL 1.2 port to Mac OS 8.1](https://github.com/gameblabla/ClassicMacDev_SDL) Playing around with Mac OS 8.1 and SDL 1.2.
 * [Clock app](https://github.com/gameblabla/clock_sdl_app) Simple clock app using SDL 1.2.
-* [Visual Novel engine](https://github.com/gameblabla/visual_novel_engine) Visual novel engine with framerate adaptive code.
-
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gameblabla&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gameblabla)
+* [Visual Novel engine](https://github.com/gameblabla/visual_novel_engine) Visual novel engine with framerate adaptive code
