@@ -17,6 +17,7 @@ Some of the stuff i did
 
 **Projects/Experiments that i made (mostly from scratch)**
 * [PC-98 Launcher Editor](https://github.com/gameblabla/pc98launcher_editor) Basic Win32 app programmed in C that allows you to download screenshots/text from Mobygames for use with PC-98Launcher
+* [PMD Tools](https://github.com/gameblabla/pc98sndpmdtools) Tools for use with the music tracker PMD. Very useful for game development on the PC-98.
 * [Retrostone Custom firmware](https://github.com/gameblabla/retrostone2-buildroot) CFW for the French-designed Retrostone 2 console.
 * [Webview OpenDingux](https://github.com/gameblabla/webview_opendingux) Standalone HTML5 game player for OpenDingux/Embedded
 * [Simple Game Library](https://github.com/gameblabla/another_gameblabla_library) Simple game library that use both SDL 1.2/SDL2 for simple games.
