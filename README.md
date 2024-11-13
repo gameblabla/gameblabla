@@ -1,5 +1,9 @@
 Some of the stuff i did
 
+**Games i made**
+* [Blocks 3D](https://github.com/gameblabla/Blocks3D) 3D Puzzle game
+* [Cascade FX](https://github.com/gameblabla/CascadeFX) Puzzle game for Casio Loopy and NEC PC-FX
+
 **Projects i have contributed to**
 * [PCSX Rearmed](https://github.com/notaz/pcsx_rearmed) (Compatibility fixes, accuracy improvements etc...)
 * [EasyRPG](https://github.com/EasyRPG/Player) Out-of-tree OpenDingux port, suggestions/testing...
