@@ -70,6 +70,8 @@
 
 - [**PC-98 Launcher Editor**](https://github.com/gameblabla/pc98launcher_editor) – Win32 app for PC-98Launcher  
 - [**PMD Tools**](https://github.com/gameblabla/pc98sndpmdtools) – Tools for the PC-98 PMD music tracker  
+- [**EXP3DO SDK**](https://github.com/gameblabla/exp3DOsdk) – Modern 3DO development toolchain using GCC 8.5  
+- [**GameTranslate Local**](https://github.com/gameblabla/gametranslate-local) – Simple app using local LLMs via llama.cpp to translate game text from an HDMI capture card  
 - [**Simple Game Library**](https://github.com/gameblabla/another_gameblabla_library) – Lightweight SDL1 / SDL2 library  
 - [**DOS Playground**](https://github.com/gameblabla/dosplayground) – Code experiments for MS-DOS  
 - [**RGB Image Decoder / Encoder**](https://github.com/gameblabla/decoder_encoder_rgb) – Binary ↔ RGB565 converter  
