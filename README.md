@@ -26,7 +26,7 @@
       <br/>
       <b><a href="https://github.com/gameblabla/CascadeFX">Cascade FX</a></b>
       <br/>
-      <sub>Puzzle game for Casio Loopy and NEC PC-FX</sub>
+      <sub>Puzzle game for NEC PC-FX</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/gameblabla/evilaustralians">
