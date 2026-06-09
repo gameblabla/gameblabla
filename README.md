@@ -103,15 +103,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gameblabla&show_icons=true&border_radius=20&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gameblabla&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gameblabla&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
