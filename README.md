@@ -12,16 +12,16 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/gameblabla/Blocks3D">
-        <img src="https://github.com/user-attachments/assets/fa1254c0-d36c-4a92-8f26-4ca02854e4d9" width="320" height="240" alt="Blocks 3D" />
+        <img src="https://github.com/gameblabla/shattered_decks/raw/main/screenshots/title_waifu.png?raw=true" width="256" height="240" alt="Shattered decks" />
       </a>
       <br/>
-      <b><a href="https://github.com/gameblabla/Blocks3D">Blocks 3D</a></b>
+      <b><a href="https://github.com/gameblabla/Blocks3D">Shattered Decks</a></b>
       <br/>
-      <sub>3D puzzle game</sub>
+      <sub>Single player Card battle game</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/gameblabla/CascadeFX">
-        <img src="https://github.com/user-attachments/assets/5daded7c-362b-4484-b07b-f6ee80acd79b" width="320" height="240" alt="Cascade FX" />
+        <img src="https://github.com/user-attachments/assets/5daded7c-362b-4484-b07b-f6ee80acd79b" width="256" height="240" alt="Cascade FX" />
       </a>
       <br/>
       <b><a href="https://github.com/gameblabla/CascadeFX">Cascade FX</a></b>
