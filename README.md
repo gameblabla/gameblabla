@@ -15,7 +15,7 @@
         <img src="https://github.com/gameblabla/shattered_decks/raw/main/screenshots/title_waifu.png?raw=true" width="256" height="240" alt="Shattered decks" />
       </a>
       <br/>
-      <b><a href="https://github.com/gameblabla/Blocks3D">Shattered Decks</a></b>
+      <b><a href="https://github.com/gameblabla/shattered_decks">Shattered Decks</a></b>
       <br/>
       <sub>Single player Card battle game</sub>
     </td>
