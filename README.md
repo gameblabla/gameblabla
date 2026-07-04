@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/gameblabla/Blocks3D">
+      <a href="https://github.com/gameblabla/shattered_decks">
         <img src="https://github.com/gameblabla/shattered_decks/raw/main/screenshots/title_waifu.png?raw=true" width="256" height="240" alt="Shattered decks" />
       </a>
       <br/>
